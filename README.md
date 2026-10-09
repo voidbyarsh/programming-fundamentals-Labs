@@ -1,2 +1,8 @@
-# programming-fundamentals-Labs
-programming Fundamentals lab tasks, C++ source code, and practical work for BSCS students.
+# Programming Fundamentals Labs
+
+Welcome to my programming fundamentals
+lab repository.
+
+## About
+This repository contains my BS Computer Science
+lab tasks and C++ programs.
